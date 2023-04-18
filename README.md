@@ -7,6 +7,9 @@
 ## OS Codes Goodgle Docs file 
 [OS CLICK HERE](https://docs.google.com/document/d/11h7Y0D6_tkYPJVN2TU1VGM7d65pz6BVLeWlB-r0DkiI/edit?usp=sharing)
 
+## OS Codes replit link
+[OS CLICK HERE](https://replit.com/@V-KrishnaKrishn/OSLAB)
+
 
 
 
