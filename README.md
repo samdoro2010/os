@@ -4,7 +4,8 @@
 
 [OS CLICK HERE](https://github.com/samdoro2010/os/blob/main/OS%20.pdf)
 
-
+## OS Codes Goodgle Docs file 
+[OS CLICK HERE](https://docs.google.com/document/d/11h7Y0D6_tkYPJVN2TU1VGM7d65pz6BVLeWlB-r0DkiI/edit?usp=sharing)
 
 
 
