@@ -1,12 +1,8 @@
 # All OS codes 
 
-## Daa Codes Replit file
+## OS Codes Pdf file 
 
-[For Replit File CLICK HERE]()
-
-## Daa Codes Pdf file 
-
-[For Replit File CLICK HERE](https://github.com/samdoro2010/daa_codes/blob/main/DAA%20codes.pdf)
+[OS CLICK HERE](https://github.com/samdoro2010/os/blob/main/OS%20.pdf)
 
 
 
